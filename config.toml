@@ -1,0 +1,52 @@
+baseurl = "https://territorialdiagnosis.github.io/"
+publishDir = "public"
+title = "Diagnostic territorial"
+author = "Tristan Berchoux"
+canonifyurls = true
+languagecode = "fr"
+paginate = 3
+theme = "hugo-renga"
+
+enableEmoji = true
+hasCJKLanguage = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+pagetitle = "Diagnostic territorial"
+copyright = "© 2019 Tristan Berchoux"
+copyrightUrl = "https://tristanberchoux.netlify.com/"
+faviconfile = "image/favicon.ico"
+logofile = "image/fields.png"
+posts_navigation = true
+uselatex = true
+highlightjs = true
+progressively = false
+
+github = "tristanberchoux"
+twitter = "TristanBerchoux"
+email = "berchoux@iamm.fr"
+
+[[menu.primary]]
+identifier = "tools"
+name = "Outils"
+url = "/tools/"
+weight = 1
+
+[[menu.primary]]
+identifier = "tuto"
+name = "Tutoriel"
+url = "/tuto/"
+weight = 2
+
+[[menu.primary]]
+identifier = "data"
+name = "Données"
+url = "/data/"
+weight = 4
+
+[[menu.primary]]
+identifier = "more"
+name = "En savoir plus"
+url = "/more/"
+weight = 5

@@ -269,10 +269,6 @@
   </url>
   
   <url>
-    <loc>/tuto/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/john-m-chambers-statistical-software-award/</loc>
     <lastmod>2018-07-30T23:30:00+00:00</lastmod>
     <priority>0</priority>
@@ -333,6 +329,10 @@
   </url>
   
   <url>
+    <loc>/tools/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/paper/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -342,10 +342,6 @@
     <loc>/tags/photo/</loc>
     <lastmod>2018-02-15T21:00:00-05:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tools/</loc>
   </url>
   
   <url>
@@ -442,6 +438,10 @@
     <loc>/tags/triplet-loss/</loc>
     <lastmod>2018-08-29T19:30:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tuto/</loc>
   </url>
   
   <url>

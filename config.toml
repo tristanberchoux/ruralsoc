@@ -1,4 +1,4 @@
-baseurl = "https://territorialdiagnosis.github.io/"
+baseurl = "https://diagter.netlify.com/"
 publishDir = "public"
 title = "Diagnostic territorial"
 author = "Tristan Berchoux"

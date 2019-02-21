@@ -50,3 +50,9 @@ identifier = "more"
 name = "En savoir plus"
 url = "/more/"
 weight = 5
+
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 6

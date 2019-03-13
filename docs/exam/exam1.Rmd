@@ -1,0 +1,24 @@
+---
+title: "Assessment 01"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Project 4000 words**
+
+You are required to produce an academic literature review on **ONE** of the following topics.
+
+- Contemporary global urban and rural issues.
+- Future global urban and rural challenges and responses to these.
+
+Your literature review should:
+
+- Summarise the key literature from a range of academic, professional, public and government sources;
+- Include discussion of relevant theoretical or conceptual arguments from a range of disciplinary perspectives;
+- Include two extended case studies of one urban and one rural location that illustrates some of the wider themes of your discussion;
+- Outline a clear conclusion including a series of recommendations for future research.

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I3PGAT1018A: Diagnostic Territorial on Understanding rural societies</title>
+    <title>Rural studies</title>
     <link>/</link>
-    <description>Recent content in I3PGAT1018A: Diagnostic Territorial on Understanding rural societies</description>
+    <description>Recent content on Rural studies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
@@ -18,25 +18,6 @@
       
       <guid>/syllabus/</guid>
       <description>Note: Contents are no longer updated (last update: 2017).   Lesson Slides Practical Reading Assignment   PART 1 Understanding Rural Societies        1.1. Rurality and development: local and global issues        1.2. Agrarian and landscape transitions in Britain        1.3. Understanding rural societies: approaches and frameworks        1.</description>
-    </item>
-    
-    <item>
-      <title>Policies</title>
-      <link>/policies/</link>
-      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/policies/</guid>
-      <description>Class: Class time is designed to be as interactive as possible. My role as instructor is to introduce you new tools and techniques, but it is up to you to take them and make use of them. Programming is a skill that is best learned by doing, so as much as possible you will be working on a variety of tasks and activities throughout each class.
-Grading: Your final grade will be comprised of the following:</description>
-    </item>
-    
-    <item>
-      <title>Tools</title>
-      <link>/tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tools/</guid>
-      <description>R/RStudio     GitHub     Slack    R is the statistical programming language we will learn in this class. We will interface with R using RStudio, a fully feautred IDE. Go to https://vm-manage.oit.duke.edu/ to access RStudio and log in with your Net ID.    GitHub is a web-based version control repository and Internet hosting service. We will be using GitHub in this course as a collaboration platform and a course management system (i.</description>
     </item>
     
   </channel>

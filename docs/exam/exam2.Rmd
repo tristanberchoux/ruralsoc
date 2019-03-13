@@ -1,0 +1,42 @@
+---
+title: "Assessment 02"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The assessment for this module comprises two aspects: 
+
+- A policy presentation
+- An essay
+
+You must choose ONE global South country and research both its environmental and development issues in preparation for completing these assessments. 
+
+You must focus one aspect (development OR environment) for the policy presentation  and the other aspect for the essay – you are free to choose which one to focus on for each assignment. 
+
+You are also free to choose any country you wish. However, there are some countries that have better academic and scholarly research coverage on environment and development topics, so please choose wisely. Please consult with me before deciding on your country case study. You should use a mixture of policy documents and academic reading on your country in supporting your points and arguments. See Canvas resources for links to data and documents.
+
+**1. Policy Presentation (8 mins long, with 2 mins of questions)**
+
+A new minister has just been appointed to the UK Department for International Development (DfID), and you have been called in as the expert to provide a briefing on a global South country of your choice. You must provide a brief verbal and visual analysis of either:
+
+- Recent economic development policy landscapes in your chosen country. You should include the following elements:
+- The ‘state of play’ in terms of current development indicators for that country and their evolution over time. A good presentation will discuss the relative strengths and weaknesses of different indicators
+- A discussion of the strengths and weaknesses of the current models of development being pursued and their impact on specific outcomes in terms of geographical patterns of aid, trade and development. Good presentations will consider the key global institutions and partners shaping development policy landscapes in the chosen country and provide specific examples of development projects or policies to support their briefing.
+- A discussion of any alternative strategies in place such as gender empowerment, fair trade, migrant remittances and their relative strengths and weaknesses. Good answers will provide specific examples to support the discussion.
+- Existing academic research into critical contexts, issues, policies around natural resource management/climate change adaptation in the chosen country.
+
+All presentations will be assessed on your ability to provide a research brief that is tailored to a government audience, is clear and confidently delivered, is an analytical account (not descriptive) and is supported with reference to policy and academic literature  (see extra guidance on Canvas).
+
+**2. Essay [2000 words]**
+
+Answer ONE of the following questions: 
+
+- Using your chosen country as an example, critically examine the extent to which global institutions shape economic development in the global South
+- Using different examples, critically discuss the compatibility between economic development and sustainable management of resources.
+
+We expect that your essays are supported by in-depth reading on your case study and are grounded in the wider debates in academic geography. Stronger essays will critically reflect on both the ongoing relevance of global institutions in context of a multipolar world of global flow and communication.  

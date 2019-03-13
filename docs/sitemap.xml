@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>/policies/</loc>
-    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/archives/</loc>
     <priority>0</priority>
   </url>
@@ -30,10 +25,6 @@
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tools/</loc>
   </url>
   
 </urlset>

@@ -1,58 +1,81 @@
-baseurl = "https://ruralsoc.netlify.com/"
-publishDir = "public"
+baseurl = "/"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
 title = "Understanding rural societies"
-author = "Tristan Berchoux"
-canonifyurls = true
-languagecode = "fr"
-paginate = 3
-theme = "hugo-renga"
-
-enableEmoji = true
-hasCJKLanguage = true
-
+theme = "material"
+#disqusShortname = ""
+# googleAnalytics = ""
+paginate = 7
+relativeurls = true
+publishDir = "docs"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+
+[permalinks]
+  post = "/:year/:month/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[author]
+  name = "Tristan Berchoux"
+  bio = ""
+  job = "Scientific Administrator"
+  location = "CIHEAM"
+  gravatarEmail = "berchoux@iamm.fr"
+  # Your profile picture
+#  picture = ""
+  twitter = "TristanBerchoux"
+
+# Menu Configuration
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+  url = "/"
+#[[menu.main]]
+#  weight = 2
+#  identifier = "modules"
+#  name = "Modules"
+#  pre = "<i class=\"material-icons\">dashboard</i>"
+#  url = "/modules"
+[[menu.main]]
+  weight = 3
+  identifier = "tools"
+  name = "Outils"
+  pre = "<i class=\"material-icons\">build</i>"
+  url = "/tools"
+[[menu.main]]
+  weight = 4
+  identifier = "syllabus"
+  name = "Syllabus"
+  pre = "<i class=\"material-icons\">date_range</i>"
+  url = "/syllabus"
+[[menu.main]]
+  weight = 5
+  identifier = "policies"
+  name = "Policies"
+  pre = "<i class=\"material-icons\">gavel</i>"
+  url = "/policies"
+
+[[menu.footer]]
+  weight = 1
+  identifier = "Duke"
+  name = "Tristan Berchoux"
+  pre = "<i class=\"button-icon fa fa-2x fa-globe\"></i>"
+  url = "http://tristanberchoux.netlify.com/"
+[[menu.footer]]
+  weight = 3
+  identifier = "GitHub"
+  name = "GitHub"
+  pre = "<i class=\"button-icon fa fa-2x fa-github\"></i>"
+  url = "https://github.com/tristanberchoux/ruralsoc/"
+
+
 [params]
-pagetitle = "Understanding rural societies"
-copyright = "© 2019 Tristan Berchoux"
-copyrightUrl = "https://tristanberchoux.netlify.com/"
-faviconfile = "/img/favicon.ico"
-logofile = "/img/fields.png"
-posts_navigation = true
-uselatex = true
-highlightjs = true
-progressively = false
-
-github = "tristanberchoux"
-twitter = "TristanBerchoux"
-email = "t.berchoux@soton.ac.uk"
-
-[[menu.primary]]
-identifier = "tools"
-name = "Outils"
-url = "/tools/"
-weight = 1
-
-[[menu.primary]]
-identifier = "tuto"
-name = "Tutoriel"
-url = "/tuto/"
-weight = 2
-
-[[menu.primary]]
-identifier = "data"
-name = "Données"
-url = "/data/"
-weight = 4
-
-[[menu.primary]]
-identifier = "more"
-name = "En savoir plus"
-url = "/more/"
-weight = 5
-
-[[menu.primary]]
-identifier = "blog"
-name = "Blog"
-url = "/blog/"
-weight = 6
+  dateFormat = "January 2, 2006"
+  background = "https://upload.wikimedia.org/wikipedia/commons/2/2e/France_Landscape.jpg"
+  favicon = "img/favicon.ico"

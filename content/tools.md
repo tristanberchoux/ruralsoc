@@ -1,6 +1,5 @@
 ---
-title: "Outils de diagnostic"
-menu: "main"
-description: ""
+title: Tools
 ---
 
+{{< tools >}}

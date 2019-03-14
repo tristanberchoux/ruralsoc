@@ -66,7 +66,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "Duke"
   name = "Tristan Berchoux"
   pre = "<i class=\"button-icon fa fa-2x fa-globe\"></i>"
-  url = "http://tristanberchoux.netlify.com/"
+  url = "http://tristanberchoux.rbind.io/"
 [[menu.footer]]
   weight = 3
   identifier = "GitHub"
